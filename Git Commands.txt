@@ -1,0 +1,31 @@
+…or create a new repository on the command line
+echo "# InterviewQuestions" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/stg-iswariya/InterviewQuestions.git
+git push -u origin main
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/stg-iswariya/InterviewQuestions.git
+git branch -M main
+git push -u origin main
+
+
+…or create a new repository on the command line
+echo "# Interview_Questions_answers" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:stg-iswariya/Interview_Questions_answers.git
+git push -u origin main
+
+
+…or push an existing repository from the command line
+git remote add origin git@github.com:stg-iswariya/Interview_Questions_answers.git
+git branch -M main
+git push -u origin main
+Token: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
